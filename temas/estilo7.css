@@ -1,0 +1,59 @@
+a
+{
+	color: "#000066"
+}
+body
+{
+	font-family: Bookman Old Style, Times New Roman, Times;
+	background-color: rgb(204,204,204);
+	color: rgb(0,0,102);
+}
+table
+{
+	table-border-color-light: rgb(102,153,255);
+	table-border-color-dark: rgb(0,0,102); 
+
+}
+h1, h2, h3, h4, h5, h6
+{
+	font-family: Bookman Old Style, Times New Roman, Times;
+}
+h1
+{
+	color: "#000066"
+}
+h2
+{
+	color: rgb(0,153,51);
+}
+h3
+{
+	color: rgb(204,51,51); 
+}
+h4
+{
+	color: rgb(51,0,204);
+}
+h5
+{
+	color: rgb(0,153,51);
+}
+h6
+{
+	color: rgb(204,51,51);
+}
+select        { table-border-color-light: rgb(102,153,255);
+	table-border-color-dark: rgb(0,0,102);
+
+}
+submit { background-color: #000080; color: #FF00FF; border-style: outset
+}
+form{
+margin-top: 0;
+margin-bottom: 0;
+color: #00FFFF; background-color: #9FAAC6
+position: absolute
+}
+input        { color: #000080; background-color: #CCFFFF; font-weight: bold; border-style:
+               ridge; border-width: 3 }
+
