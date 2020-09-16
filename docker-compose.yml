@@ -1,7 +1,8 @@
-web:
+version: "3"
+services:
     image: nginx:latest
     container_name: nginx
-     restart: always
-     ports:
-     — “80:80”
+    restart: always
+    ports:
+        — "80:80"
 
