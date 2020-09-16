@@ -7,5 +7,5 @@ services:
         ports: 
         - "80:80"
         volumes:
-            - ./:/www
+            - ./www:/www
             - ./site.conf:/etc/nginx/conf.d/site.conf
