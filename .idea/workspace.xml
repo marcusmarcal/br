@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ba1fe78-c19c-4378-b93d-d1e080652e11" name="Default Changelist" comment="Inclusão da estrutura do banco no arquivo .db">
+      <change afterPath="$PROJECT_DIR$/.idea/br.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funcoes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/topo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEADJOE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conexao.php" beforeDir="false" afterPath="$PROJECT_DIR$/conexao.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novo.php" beforeDir="false" afterPath="$PROJECT_DIR$/novo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/produtos.inc" beforeDir="false" afterPath="$PROJECT_DIR$/produtos.inc" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4">
+    <include_path>
+      <path value="$PROJECT_DIR$/../../../../php/pear" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1hbhwHnvHgfmbusoIPPWMruSl9b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="PHP Script.novo.php">
+    <configuration name="conexao.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/conexao.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/index.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="novo.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/novo.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.novo.php" />
+        <item itemvalue="PHP Script.index.php" />
+        <item itemvalue="PHP Script.conexao.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="StructuralSearchPlugin">
+    <replaceConfiguration name="Unnamed" created="1600291600032" text="&lt;?" recursive="false" caseInsensitive="false" type="PHP" scope_type="PROJECT" scope_descriptor="" reformatAccordingToStyle="true" shortenFQN="false" replacement="&lt;?php" history="1">
+      <constraint name="__context__" within="" contains="" />
+    </replaceConfiguration>
+    <replaceConfiguration name="Unnamed" created="1600291549572" text="&lt;? " recursive="false" caseInsensitive="false" type="PHP" scope_type="PROJECT" scope_descriptor="" reformatAccordingToStyle="false" shortenFQN="false" replacement="&lt;?php" history="1">
+      <constraint name="__context__" within="" contains="" />
+    </replaceConfiguration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ba1fe78-c19c-4378-b93d-d1e080652e11" name="Default Changelist" comment="" />
+      <created>1600285937697</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600285937697</updated>
+      <workItem from="1600285939488" duration="6106000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Inclusão da estrutura do banco no arquivo .db" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inclusão da estrutura do banco no arquivo .db" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="309" y="42" key="#Inspections" timestamp="1600286392146">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="309" y="42" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1600286392146" />
+    <state x="390" y="6" key="#PHP" timestamp="1600289137849">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="6" key="#PHP/0.0.1366.728@0.0.1366.728" timestamp="1600289137849" />
+    <state x="400" y="18" key="#Servers" timestamp="1600288964313">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="400" y="18" key="#Servers/0.0.1366.728@0.0.1366.728" timestamp="1600288964313" />
+    <state x="274" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600289003322">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="274" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1600289003322" />
+    <state width="943" height="534" key="#com.intellij.structuralsearch.plugin.ui.StructuralReplaceDialog" timestamp="1600291600001">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="943" height="534" key="#com.intellij.structuralsearch.plugin.ui.StructuralReplaceDialog/0.0.1366.728@0.0.1366.728" timestamp="1600291600001" />
+    <state x="211" y="97" key="#com.intellij.structuralsearch.plugin.ui.StructuralSearchDialog" timestamp="1600291600001">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="211" y="97" key="#com.intellij.structuralsearch.plugin.ui.StructuralSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1600291600001" />
+    <state x="430" y="218" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1600286253686">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="430" y="218" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1600286253686" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1600286111242">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1600286111242" />
+    <state x="462" y="118" key="FileChooserDialogImpl" timestamp="1600289126125">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600289126125" />
+    <state width="1323" height="244" key="GridCell.Tab.0.bottom" timestamp="1600292153360">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="244" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600292153360" />
+    <state width="1323" height="244" key="GridCell.Tab.0.center" timestamp="1600292153360">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="244" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600292153360" />
+    <state width="1323" height="244" key="GridCell.Tab.0.left" timestamp="1600292153360">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="244" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600292153360" />
+    <state width="1323" height="244" key="GridCell.Tab.0.right" timestamp="1600292153360">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="244" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600292153360" />
+    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1600288756120">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1600288756120" />
+  </component>
+</project>
