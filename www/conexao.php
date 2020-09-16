@@ -3,7 +3,7 @@ require "topo.php";
 require "funcoes.php";
 
 $bdServidor = '127.0.0.1';
-$bdUsuario = 'userbr';
+$bdUsuario = 'root';
 $bdSenha = 'Uws012aQ=!';
 $bdBanco = 'br';
 $conexao = mysqli_connect($bdServidor, $bdUsuario, $bdSenha, $bdBanco);

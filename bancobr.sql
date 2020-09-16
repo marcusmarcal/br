@@ -1,5 +1,3 @@
-CREATE USER 'userbr'@'localhost' IDENTIFIED BY 'Uws012aQ=!';
-GRANT ALL PRIVILEGES ON br.* TO 'userbr'@'localhost';
 CREATE DATABASE br;
 USE br;
 CREATE TABLE `dados_br` (
