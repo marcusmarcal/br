@@ -16,6 +16,7 @@ services:
         container_name: php-fpm
         volumes:
         - ./www:/www
+        command: docker-php-ext-install mysqli
         links:
             - db
     db:
