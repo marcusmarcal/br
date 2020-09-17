@@ -35,7 +35,7 @@ $resultado = mysqli_query($conexao, $sql);
 
 </tr>
 <?php
-while ($linha = mysqli_fetch_array($resultado, MYSQLI_NUM)) {
+while ($linha = mysqli_fetch_array($conexao, $resultado)) {
 $numero_br = $linha["numero_br"];
 $nome_fornecedor = $linha["nome_fornecedor"];
 $numero_nota = $linha["numero_nota"];
