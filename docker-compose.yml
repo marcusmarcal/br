@@ -13,9 +13,13 @@ services:
             - php
     php:
         image: php:7.3-fpm
-        build:
-            context: ./php
-            dockerfile: Dockerfile
+        command:
+              - /bin/sh
+              - -c
+              - |
+                 docker-php-ext-install mysqli 
+                 echo "extension installed.....starting php-fpm........................................"
+                 php-fpm
         container_name: php-fpm
         volumes:
         - ./www:/www
