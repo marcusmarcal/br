@@ -13,7 +13,9 @@ services:
             - php
     php:
         image: php:7.3-fpm
-        build: './php/'
+        build:
+            context: ./php
+            dockerfile: Dockerfile
         container_name: php-fpm
         volumes:
         - ./www:/www
