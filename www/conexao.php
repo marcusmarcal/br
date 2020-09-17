@@ -15,10 +15,10 @@ if (mysqli_connect_errno($conexao)) {
 
 $tabela = "index_br";
 
-$host = “db”;
-$username = “root”;
+$host = "localhost";
+$username = "root";
 $password = 'Uws012aQ=!';
-$db = “br”;
+$db = "br";
 try {
 $conexao = new PDO("mysql:host=$host;dbname=$db", $username, $password);
 $conexao->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
