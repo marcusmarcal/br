@@ -16,7 +16,7 @@ if (mysqli_connect_errno($conexao)) {
 
 $tabela = "index_br";
 
-$host = "localhost";
+$host = "db";
 $username = "root";
 $password = 'Uws012aQ=!';
 $db = "br";
