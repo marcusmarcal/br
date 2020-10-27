@@ -1,0 +1,108 @@
+.mstheme
+{
+	separator-image: url(btzhsepd.gif);
+	list-image-1: url(btzbul1d.gif);
+	list-image-2: url(btzbul2d.gif);
+	list-image-3: url(btzbul3d.gif);
+	nav-banner-image: url(btzbannd.gif);
+	navbutton-horiz-normal: url(btznvhnd.gif);
+	navbutton-horiz-hovered: url(btznvhnd.gif);
+	navbutton-horiz-pushed: url(btznvhsd.gif);
+	navbutton-vert-normal: url(btznvvnd.gif);
+	navbutton-vert-hovered: url(btznvvnd.gif);
+	navbutton-vert-pushed: url(btznvvsd.gif);
+	navbutton-home-normal: url(btzhomed.gif);
+	navbutton-home-hovered: url(btzhomed.gif);
+	navbutton-home-pushed: url(btzhomed.gif);
+	navbutton-next-normal: url(btznextd.gif);
+	navbutton-next-hovered: url(btznextd.gif);
+	navbutton-next-pushed: url(btznextd.gif);
+	navbutton-prev-normal: url(btzprevd.gif);
+	navbutton-prev-hovered: url(btzprevd.gif);
+	navbutton-prev-pushed: url(btzprevd.gif);
+	navbutton-up-normal: url(btzupbtd.gif);
+	navbutton-up-hovered: url(btzupbtd.gif);
+	navbutton-up-pushed: url(btzupbtd.gif);
+}
+.mstheme-bannertxt
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: rgb(204, 255, 255);
+	font-size: 6;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-horiz-navtxt
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: rgb(204, 255, 255);
+	font-size: 2;
+	font-style: normal;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-vert-navtxt
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: rgb(204, 255, 255);
+	font-size: 2;
+	font-style: normal;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-navtxthome
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: rgb(255, 255, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-navtxtnext
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: rgb(255, 255, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-navtxtprev
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: rgb(255, 255, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-navtxtup
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: rgb(255, 255, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+}
+ul
+{
+	list-style-image: url(btzbul1d.gif);
+}
+ul ul
+{
+	list-style-image: url(btzbul2d.gif);
+}
+ul ul ul
+{
+	list-style-image: url(btzbul3d.gif);
+}

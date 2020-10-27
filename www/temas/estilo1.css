@@ -1,0 +1,63 @@
+.normal {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 75%;
+}
+.navegacao {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 65%;
+}
+.button {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 75%;
+  font-weight: bold
+}
+.erro {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 75%;
+  color : Yellow;
+}
+h1 {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 200%;
+}
+h2 {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 180%;
+}
+h4 {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 120%;
+}
+body
+{
+  color: #003399;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-style: normal;
+  background-color: #F0F5FF;
+}
+a
+{   
+  color: #003399;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  background-color: #F0F5FF;
+}
+input
+{
+  background-color: "#ffffff";
+  color: #003399;
+
+}
